@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">JCO GQT FE1</string>
+
+    <!--Product Names-->
+    <string-array name="products">
+        <item>ALCAPONE</item>
+        <item>AVOCADO</item>
+        <item>BERRY SPEARS</item>
+        <item>BLACK JACK</item>
+        <item>CAVIAR STRAWBERRY</item>
+        <item>CHEESE CAKELICIOUS</item>
+        <item>CHOCONUTZY</item>
+        <item>JPOPS</item>
+
+    </string-array>
+
+    <!--Prices-->
+    <string-array name="prices">
+        <item>47</item>
+        <item>55</item>
+        <item>47</item>
+        <item>67</item>
+        <item>50</item>
+        <item>47</item>
+        <item>55</item>
+        <item>249</item>
+    </string-array>
+
+
+    <!--Images-->
+    <integer-array name="images">
+        <item>@drawable/alcapone</item>
+        <item>@drawable/avocado_dicaprio</item>
+        <item>@drawable/berry_spears</item>
+        <item>@drawable/black_jack</item>
+        <item>@drawable/caviar_strawberry</item>
+        <item>@drawable/cheese_cakelicious</item>
+        <item>@drawable/choconutzy</item>
+        <item>@drawable/jpops</item>
+    </integer-array>
+
+    <!--Description-->
+    <string name="alcapone_desc">Donut dipped in white chocolate and topped with sliced toasted almonds.</string>
+    <string name="avocado_desc">Donut filled with avocado cream, dipped in avocado chocolate, and garnished with dark chocolate flakes.</string>
+    <string name="berryspears_desc">Donut filled with whipped cream cheese, dipped in strawberry jam, and garnished with white chocolate flakes.</string>
+    <string name="blackjack_desc">Donut fully encased in dark chocolate.</string>
+    <string name="caviarstrawberry_desc">Donut dipped in strawberry milk chocolate and sprinkled with dark chocolate coated crisps.</string>
+    <string name="cheesecake_desc">Donut filled with whipped cream cheese, dipped in white chocolate, topped with cookie crumbs, and garnished with white chocolate.</string>
+    <string name="choconutzy">Donut filled with dark chocolate ganache and peanut butter cream, dipped in milk chocolate, and garnished with dark chocolate.</string>
+    <string name="jpops">Bite size donuts in 12 popular flavors: Alcapone, Coco Loco, Why Nut, Heaven Berry, and others with vanilla whipped cream or chocolate whipped cream filling.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
